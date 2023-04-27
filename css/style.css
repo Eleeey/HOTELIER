@@ -12,8 +12,11 @@
 .fw-semi-bold {
     font-weight: 600 !important;
 }
-
+button{
+    border-radius: 20px;
+}
 .back-to-top {
+    background-color: #1fccb5;
     position: fixed;
     display: none;
     right: 45px;
